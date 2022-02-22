@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Prudhvi Raj Numburi
 - 👀 I’m interested in Data Science, Machine Learning and Data Analysis
-- 🌱 I’m currently learning ...
+- 🌱 I’m a recent Graduate Data Science student from the prestigious University of Bath and have one year of experience as a Data Scientist at Rubixe company.
 - 💞️ I’m looking to collaborate on solving business problems with data
-- 📫 How to reach me ...
+- 📫 How to reach me %prudhviraj.numburi@gmail.com
 
 <!---
 PrudhviRaj-Numburi/PrudhviRaj-Numburi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
