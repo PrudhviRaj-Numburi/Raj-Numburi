@@ -6,7 +6,6 @@
 
 ###  :mailbox: Connect with Me:
 <br />
-
 <p align="center">
 
 <a href="https://www.linkedin.com/in/prudhvirajnumburi"><img src="https://img.shields.io/badge/-Prudhvi%20Raj-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
