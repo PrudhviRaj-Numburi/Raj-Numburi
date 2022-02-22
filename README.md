@@ -9,7 +9,8 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/prudhvirajnumburi"/></a>
+<a href="https://www.linkedin.com/in/prudhvirajnumburi"><img src="https://img.shields.io/badge/in-Prudhvi%20Raj-blue"/></a>
+
 <!---
 PrudhviRaj-Numburi/PrudhviRaj-Numburi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
