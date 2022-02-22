@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrudhviRaj-Numburi
+- 👋 Hi, I’m Prudhvi Raj Numburi
 - 👀 I’m interested in Data Science, Machine Learning and Data Analysis
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on solving business problems with data
