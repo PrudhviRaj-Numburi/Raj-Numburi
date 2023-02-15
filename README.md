@@ -1,7 +1,8 @@
 ### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 👋 I’m Prudhvi Raj Numburi
 - 👀 I’m interested in Data Science, Machine Learning and Data Analysis
-- 🌱 I’m a recent Graduate Data Science student from the prestigious University of Bath and have one year of experience as a Data Scientist at Rubixe company.
+- 🌱 I'm a Data Scientist in Currys, Plc.
+<!-- - I’m a recent Graduate Data Science student from the prestigious University of Bath and have one year of experience as a Data Scientist at Rubixe company. -->
 - 💞️ I’m looking to collaborate on solving business problems with data
 - 📫 How to reach me: prudhviraj.numburi@gmail.com
 - Check out my [Portfolio](https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio.git) for all of my projects, micro-projects, skills and certificates.
