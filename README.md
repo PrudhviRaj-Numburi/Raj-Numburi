@@ -10,8 +10,7 @@
 
 ###  :mailbox: Connect with Me:
 <p align="center">
-
-<a href="https://www.linkedin.com/in/prudhvirajnumburi"><img src="https://img.shields.io/badge/-Prudhvi%20Raj-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rajnumburi"><img src="https://img.shields.io/badge/-Prudhvi%20Raj-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/prudhvirajnumburi"><img src="https://img.shields.io/badge/-Prudhvi%20Raj-05122A?style=flat&logo=medium&logoColor=white"/></a>
 
 <!---
